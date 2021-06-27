@@ -2,7 +2,7 @@
 **Matteo Destro (221222)** \
 **Natural Language Understanding - 2020/21** \
 \
-A squence-to-sequence model with attention and beam search for concept tagging. Trained and evaluated on the ATIS dataset.
+A sequence-to-sequence model with attention and beam search for concept tagging. Trained and evaluated on the ATIS dataset.
 
 ## Get started
 - Clone the repository
@@ -12,4 +12,4 @@ A squence-to-sequence model with attention and beam search for concept tagging. 
 ## Project structure
 All the code to define the model and run the experiments is available in `Seq2Seq.ipynb`.
 
-The folder data contains the ATIS dataset and the pretrained embedding weights, obtained using the `gensim` APIs and filtered to contain only the relevant tokens. 
+The folder data contains the ATIS dataset, the `conlleval.pl` script and the pre-trained embedding weights, obtained using the `gensim` APIs and filtered to contain only the relevant tokens. 
