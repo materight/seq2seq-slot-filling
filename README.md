@@ -3,12 +3,13 @@
 **Natural Language Understanding [CT1]** \
 **Year 2020/21** \
 \
-A sequence-to-sequence model with attention and beam search for concept tagging. Trained and evaluated on the ATIS dataset.
+A sequence-to-sequence model with attention and beam search for concept tagging. \
+Implemented in PyTorch and trained and evaluated on the ATIS dataset.
 
 ## Get started
 - Clone the repository
 - Install the required dependencies by running `pip install torch numpy pandas matplotlib`
-- Open and run the Jupyter notebook `Seq2Seq.ipynb`
+- From the repository root, open and run the Jupyter notebook `Seq2Seq.ipynb`.
 
 ## Project structure
 All the code to define the model and run the experiments is available in `Seq2Seq.ipynb`.
