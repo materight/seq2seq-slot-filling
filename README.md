@@ -9,7 +9,9 @@ Implemented in PyTorch and trained and evaluated on the ATIS dataset.
 ## Get started
 - Clone the repository
 - Install the required dependencies by running `pip install torch numpy pandas matplotlib`
-- From the repository root, open and run the Jupyter notebook `Seq2Seq.ipynb`.
+- From the repository root, open and run the Jupyter notebook `Seq2Seq.ipynb`
+
+**Note:** the model was developed and tested using Python 3.7.10.
 
 ## Project structure
 All the code to define the model and run the experiments is available in `Seq2Seq.ipynb`.
