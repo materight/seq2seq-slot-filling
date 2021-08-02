@@ -1,10 +1,6 @@
-# [CT1] An Attention-based Sequence-to-Sequence Model for Concept Tagging
-**Matteo Destro (221222)** \
-**Natural Language Understanding [CT1]** \
-**Year 2020/21** \
-\
-A sequence-to-sequence model with attention and beam search for concept tagging. \
-Implemented in PyTorch and trained and evaluated on the ATIS dataset.
+# An Attention-based Sequence-to-Sequence Model for Concept Tagging
+
+A sequence-to-sequence model with attention and beam search for concept tagging. Implemented in PyTorch and trained and evaluated on the ATIS dataset.
 
 ## Get started
 - Clone the repository
