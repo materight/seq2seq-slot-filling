@@ -1,6 +1,6 @@
-# An Attention-based Sequence-to-Sequence Model for Concept Tagging
+# An Attention-based Sequence-to-Sequence Model for Slot Filling
 
-A sequence-to-sequence model with attention and beam search for concept tagging. Implemented in PyTorch and trained and evaluated on the ATIS dataset.
+A sequence-to-sequence model with attention and beam search for slot filling. Implemented in PyTorch and trained and evaluated on the ATIS dataset.
 
 ## Get started
 - Clone the repository
