@@ -1,6 +1,6 @@
 # An Attention-based Sequence-to-Sequence Model for Slot Filling
 
-A sequence-to-sequence model with attention and beam search for slot filling. Implemented in PyTorch and trained and evaluated on the ATIS dataset.
+A sequence-to-sequence model with attention and beam search for slot filling. Implemented in PyTorch and trained and evaluated on the ATIS dataset. Check the [report](./report.pdf) for more implementation details.
 
 ## Get started
 - Clone the repository
