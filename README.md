@@ -4,7 +4,7 @@ A sequence-to-sequence model with attention and beam search for slot filling. Im
 
 ## Get started
 - Clone the repository
-- Install the required dependencies by running `pip install torch numpy pandas matplotlib`
+- Install the required dependencies by running `pip install -r requirements.txt`
 - From the repository root, open and run the Jupyter notebook `Seq2Seq.ipynb`
 
 **Note:** the model was developed and tested using Python 3.7.10.
